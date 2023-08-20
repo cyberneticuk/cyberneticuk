@@ -56,3 +56,5 @@
 ##### - Windows
 ###### - When it works it works
 ###### - Harder to use than linux
+
+###### [**Contact**](contact.md)

@@ -10,3 +10,5 @@
 ### Ubiquiti M2 and M5 acces points:
 #### - provide high speed 2.4 GHz to hundreds of devices at once.
 #### - Super fast 5GHz M5 acces points provide a reliable high speed connection between the M2 points.
+
+###### [**Contact**](contact.md)
