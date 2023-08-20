@@ -12,8 +12,7 @@
 ### Ubiquiti M2 and M5 acces points:
 #### - provide high speed 2.4 GHz to hundreds of devices at once.
 #### - Super fast 5GHz M5 acces points provide a reliable high speed connection between the M2 points.
-## Website hosting
-## Plans: 
+## Website hosting plans 
 ### - Starter
 #### - 5 Email Addresses
 #### - 5GB of storage per address
@@ -59,7 +58,7 @@
 #### - Unlimited SQL Databases
 #### - 50 FTP Accounts
 #### - Unlimited Bandwith
-### - a choice of 3 hosts
+### A choice of 3 hosts
 #### - All hosts come included with a graphical website builder
 ##### - Linux
 ###### - Reliability
