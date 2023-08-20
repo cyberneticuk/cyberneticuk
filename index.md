@@ -1,2 +1,2 @@
-# Something Awesome is coming!
-## Follow Our github for announcements
+# Event Networking and site hosting on the cheap!
+## Cybernetic offers a range of networking equipment for events on the Isle of Wight and site hosting for events and companies across the UK!
