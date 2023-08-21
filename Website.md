@@ -58,3 +58,4 @@
 ###### - Harder to use than linux
 
 ###### [**Contact**](contact.md)
+###### <sub>Contact: cyberneticuk@gmail.com</sub>

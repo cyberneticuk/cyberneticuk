@@ -1,3 +1,3 @@
 # Contact
 ## [**Home**](index.md)
-###### <sub>Contact: cyberneticuk@gmail.com</sub>
+# Contact: cyberneticuk@gmail.com
