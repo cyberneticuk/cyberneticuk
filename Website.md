@@ -1,5 +1,6 @@
 ## [**Home**](index.md)
-## Website hosting plans 
+## Website hosting plans
+## Starting from £4.99 a month
 ### - Starter
 #### - 5 Email Addresses
 #### - 5GB of storage per address
@@ -56,6 +57,8 @@
 ##### - Windows
 ###### - When it works it works
 ###### - Harder to use than linux
+
+## Contact
 
 ###### [**Contact**](contact.md)
 ###### <sub>Contact: cyberneticuk@gmail.com</sub>
